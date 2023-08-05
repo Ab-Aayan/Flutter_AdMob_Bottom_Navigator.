@@ -11,7 +11,7 @@ AdMob banner ad is displayed at the bottom of the home page.
 Clean and organized code structure with a reusable custom widget for the ad banner.
 
 # Screenshots:
-<img src="https://komarev.com/ghpvc/?username=ab-aayan&label=Profile%20views&color=0e75b6&style=flat" alt="ab-aayan" /> </p>
+<img src="https://github.com/Ab-Aayan/Flutter_AdMob_Bottom_Navigator./blob/main/code.png?raw=true" />
 
 # Usage:
 
